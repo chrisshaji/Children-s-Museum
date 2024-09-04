@@ -7,6 +7,4 @@ They gave us permission to do whatever we wanted as long as the total comes unde
 with a box, atach sliders so that you can control the path of the ball as it comes down. The ball would make its way to a ball catch that we we mremake since the old one 
 was broken. Also we decided on making an Archimedes screw just to teach children the basic principles.
 
-
-
-![A  Front View](https://github.com/user-attachments/assets/bb12d427-65a1-44a3-9dc3-22f5eb439d94)
+<img src="https://github.com/user-attachments/assets/bb12d427-65a1-44a3-9dc3-22f5eb439d94" alt="Caption for Image 1">
