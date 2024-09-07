@@ -3,7 +3,7 @@ A fun and interactive exhibit for the Children's Museum at Brazos Valley
 
 ## Brainstorming
 We were tasked with rewvamping the whole right side of the exhibit as the kids did not find it engaging. It was just a ball going down the sprial path shown below.
-They gave us permission to do whatever we wanted as long as the total comes under $500. After a some brainstorming, we came up with a few ideas: replace the spiral path
+We were given complete creative freedom as long as the budget stays under $500. After a some brainstorming, we came up with a few ideas: replace the spiral path
 with a box, attach sliders so that you can control the path of the ball as it comes down. The ball would make its way to a ball catch that we we mremake since the old one 
 was broken. Also we decided on making an Archimedes screw just to teach children the basic principles.
 
@@ -37,7 +37,7 @@ acryllic in place top and bottom that were made out of wood. We simply used a ta
 </table>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3328ac22-dce5-4fbd-bec6-b11b1e5fffaa" alt="Picture of the exisiting exhibit" width="400" height "500"/>
+  <img src="https://github.com/user-attachments/assets/3328ac22-dce5-4fbd-bec6-b11b1e5fffaa" alt="Picture of the exisiting exhibit" width="400" height "500" alt:"Picture of the existing exhibit">
   <br/>
-  <em>Picture of the exisiting exhibit</em>
+  <em>Picture of the existing exhibit</em>
 </p>
