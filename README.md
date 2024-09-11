@@ -37,7 +37,7 @@ acryllic in place top and bottom that were made out of wood. We simply used a ta
 </table>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3328ac22-dce5-4fbd-bec6-b11b1e5fffaa" alt="Picture of the exisiting exhibit" width="400" height "500" alt:"Picture of the existing exhibit">
+  <img src="https://github.com/user-attachments/assets/3328ac22-dce5-4fbd-bec6-b11b1e5fffaa" alt="Picture of the current exhibit" width="400" height "500">
   <br/>
-  <em>Picture of the existing exhibit</em>
+  <em>Picture of the current exhibit</em>
 </p>
