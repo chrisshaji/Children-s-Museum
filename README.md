@@ -8,9 +8,9 @@ with a box, attach sliders so that you can control the path of the ball as it co
 was broken. We decided to build an Archimedes screw to show kids how the ancient Greeks managed to lift water uphill without using a pump.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb12d427-65a1-44a3-9dc3-22f5eb439d94" alt="Image Description" width="600"/>
+  <img src="https://github.com/user-attachments/assets/bb12d427-65a1-44a3-9dc3-22f5eb439d94" alt="Picture of the previous exhibit" width="600"/>
   <br/>
-  <em>Picture of the exisiting exhibit</em>
+  <em>Picture of the previous exhibit</em>
 </p>
 
 ## Design and Fabrication
