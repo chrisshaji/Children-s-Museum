@@ -1,5 +1,5 @@
 # Children's Museum Exhibit
-A fun and interactive exhibit for the Children's Museum at Brazos Valley
+A fun and interactive exhibit for the Children's Museum at Brazos Valley.
 
 ## Brainstorming
 We were tasked with revamping the whole right side of the exhibit as the kids did not find it engaging. It was just a ball going down the sprial path shown below.
