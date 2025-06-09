@@ -19,17 +19,17 @@ acryllic in place top and bottom that were made out of wood. We simply used a ta
 <table align="center">
   <tr>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/b73725ef-51db-4617-809d-286943d47954" width="300" height="355" alt="Acrylic cut outs">
+      <img src="https://github.com/user-attachments/assets/b73725ef-51db-4617-809d-286943d47954" width="250" height="355" alt="Acrylic cut outs">
       <br>
       <span>Acrylic cut outs</span>
     </td>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/27ac18cc-731c-4429-8e56-4496be7c5bb5" width="300" height="355" alt="Spray painted sliders">
+      <img src="https://github.com/user-attachments/assets/27ac18cc-731c-4429-8e56-4496be7c5bb5" width="250" height="355" alt="Spray painted sliders">
       <br>
       <span>Spray painted sliders</span>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/8e29b668-5bb4-423b-89fa-d117dcdf3c1a" width="300" height="355" alt="Working on the wooden fixutres">
+      <img src="https://github.com/user-attachments/assets/8e29b668-5bb4-423b-89fa-d117dcdf3c1a" width="250" height="355" alt="Working on the wooden fixutres">
       <br>
       <span>Working on the wooden fixutres</span>
     </td>
